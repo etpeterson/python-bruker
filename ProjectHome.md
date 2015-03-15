@@ -1,0 +1,1 @@
+This is just some basic Python code to read Bruker raw MRI data.
